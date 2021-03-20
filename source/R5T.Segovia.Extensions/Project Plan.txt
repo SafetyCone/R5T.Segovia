@@ -1,0 +1,4 @@
+R5T.Segovia.Extensions - Extensions for the Flurl Nuget package version selector library (fluent URL: https://flurl.dev/).
+
+Goals
+
