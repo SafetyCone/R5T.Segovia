@@ -1,0 +1,2 @@
+# R5T.Segovia
+A Flurl Nuget package version selector library (fluent URL: https://flurl.dev/).
